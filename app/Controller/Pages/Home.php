@@ -16,7 +16,7 @@ class Home extends Page{
             'site' => 'https://yudistation.com.br'
         ]);
         //RETORNA A VIEW DA PÁGINA
-        return parent::getPage('WDEV - Canal - Home', $content);
+        return parent::getPage('Yudistation - Canal - Home', $content);
     }
 
 }
